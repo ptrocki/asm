@@ -1,0 +1,1 @@
+gcc -m32 -s -fverbose-asm -o foo2 p1.c p2.s
