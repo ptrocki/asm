@@ -1,0 +1,2 @@
+ as --32 -o p1.o p1.s
+ gcc -m32 -g -o helloWorld p2.c p1.o
