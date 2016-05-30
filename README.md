@@ -5,3 +5,4 @@ This link contain basic info about ASM(in Polish)
 http://zeszyt.olo.ovh/2016/02/28/architektura-komputerow-2-laboratorium-nr-1/
 
 MMX algo http://www.codeproject.com/Articles/33838/Image-Processing-using-C
+http://stackoverflow.com/questions/14808784/negative-transformation-of-an-image-in-c
