@@ -3,3 +3,5 @@ Hello, this repo contain asembler code for Computer Managment(polish name is Arc
 
 This link contain basic info about ASM(in Polish)
 http://zeszyt.olo.ovh/2016/02/28/architektura-komputerow-2-laboratorium-nr-1/
+
+MMX algo http://www.codeproject.com/Articles/33838/Image-Processing-using-C
